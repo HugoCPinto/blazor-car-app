@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YreM1rcnisdilP7G/GJ0tsuO39KB/fZVYcov9w1kbTExnMXPbyoDxkSXrJyoDMqz0QAuwQJ+RZlk20/+LOJ7uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo.cordeiro-pinto\\work\\personal\\my-repos\\blazor-car-app\\blazor-car-app\\blazor-car-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.cordeiro-pinto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
